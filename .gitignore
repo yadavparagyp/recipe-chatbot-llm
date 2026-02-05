@@ -1,0 +1,10 @@
+.venv
+outputs/
+logos/
+data/
+pdfs/
+*.pdf
+*.zip
+*.png
+*.jpg
+*.bin
